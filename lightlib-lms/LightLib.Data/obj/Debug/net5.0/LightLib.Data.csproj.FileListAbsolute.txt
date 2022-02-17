@@ -1,0 +1,15 @@
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\bin\Debug\net5.0\LightLib.Data.deps.json
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\bin\Debug\net5.0\LightLib.Data.dll
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\bin\Debug\net5.0\ref\LightLib.Data.dll
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\bin\Debug\net5.0\LightLib.Data.pdb
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\bin\Debug\net5.0\LightLib.Models.dll
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\bin\Debug\net5.0\LightLib.Models.pdb
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\obj\Debug\net5.0\LightLib.Data.csproj.AssemblyReference.cache
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\obj\Debug\net5.0\LightLib.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\obj\Debug\net5.0\LightLib.Data.AssemblyInfoInputs.cache
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\obj\Debug\net5.0\LightLib.Data.AssemblyInfo.cs
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\obj\Debug\net5.0\LightLib.Data.csproj.CoreCompileInputs.cache
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\obj\Debug\net5.0\LightLib.Data.csproj.CopyComplete
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\obj\Debug\net5.0\LightLib.Data.dll
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\obj\Debug\net5.0\ref\LightLib.Data.dll
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Data\obj\Debug\net5.0\LightLib.Data.pdb

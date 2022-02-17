@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LightLib.Web
+build_property.ProjectDir = C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\

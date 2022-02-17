@@ -1,0 +1,12 @@
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Models\bin\Debug\net5.0\LightLib.Models.deps.json
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Models\bin\Debug\net5.0\LightLib.Models.dll
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Models\bin\Debug\net5.0\ref\LightLib.Models.dll
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Models\bin\Debug\net5.0\LightLib.Models.pdb
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Models\obj\Debug\net5.0\LightLib.Models.csproj.AssemblyReference.cache
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Models\obj\Debug\net5.0\LightLib.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Models\obj\Debug\net5.0\LightLib.Models.AssemblyInfoInputs.cache
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Models\obj\Debug\net5.0\LightLib.Models.AssemblyInfo.cs
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Models\obj\Debug\net5.0\LightLib.Models.csproj.CoreCompileInputs.cache
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Models\obj\Debug\net5.0\LightLib.Models.dll
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Models\obj\Debug\net5.0\ref\LightLib.Models.dll
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Models\obj\Debug\net5.0\LightLib.Models.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hzz+spjEvFGgBTJtG5idjQwnhZCSpbdZBalhtO17PLaLkQmD0I+ocee5QaDSJErLqwsX/5QWPgzeNKcgPdewrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Havia\\OneDrive\\Documents\\Senior Year 2.0 2nd Semester\\CSE 4321\\Team Project\\lightlib-lms\\LightLib.Models\\LightLib.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Havia\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Havia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Havia\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
