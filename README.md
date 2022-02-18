@@ -1,11 +1,11 @@
 # CSE-4321-Team-Project-LMS
 How to run this project:
 1. Download the necessary programs
-  \n1.a. Visual Studio 2022
-  \n1.b. (Later use) Activate JetBrains account (ReSharper and DataGrip)
-  \n1.c. Docker
-  \n1.d. Activate GitHub Account (Version Control)
-  \n1.e Install LMS project from this link (Download Zip) : https://github.com/wesdoyle/lightlib-lms 
+  1.a. Visual Studio 2022
+  1.b. (Later use) Activate JetBrains account (ReSharper and DataGrip)
+  1.c. Docker
+  1.d. Activate GitHub Account (Version Control)
+  1.e Install LMS project from this link (Download Zip) : https://github.com/wesdoyle/lightlib-lms 
 2. Extract Zip file (from step 1.e) in a project directory
 3. Open the project solution file (“LightLib.sln”)
 4. Run the LightLib.Web solution to test the code. An error might occur on line 18 of the LightLib.Web solution, on file “Program.cs”. Visual Studio will instruct/suggest how to update for new web certificates. Follow Accordingly. 
