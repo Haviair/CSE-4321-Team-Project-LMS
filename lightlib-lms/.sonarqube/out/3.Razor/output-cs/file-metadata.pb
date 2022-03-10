@@ -1,0 +1,19 @@
+±
+¥C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Branch\Detail.cshtml.g.csutf-8°
+¤C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Branch\Index.cshtml.g.csutf-8´
+¨C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Catalog\Checkout.cshtml.g.csutf-8²
+¦C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Catalog\Detail.cshtml.g.csutf-8°
+¤C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Catalog\Hold.cshtml.g.csutf-8±
+¥C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Catalog\Index.cshtml.g.csutf-8®
+¢C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.csutf-8±
+¥C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Patron\Create.cshtml.g.csutf-8±
+¥C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Patron\Detail.cshtml.g.csutf-8¯
+£C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Patron\Edit.cshtml.g.csutf-8°
+¤C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Patron\Index.cshtml.g.csutf-8²
+¦C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Patron\PayFees.cshtml.g.csutf-8°
+¤C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.csutf-8²
+¦C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.csutf-8Ä
+¸C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8°
+¤C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.csutf-8®
+¢C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.csutf-8³
+§C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\LightLib.Web.RazorTargetAssemblyInfo.csutf-8

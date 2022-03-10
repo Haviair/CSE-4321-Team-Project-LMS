@@ -1367,3 +1367,72 @@
 2022-02-16 19:39:06.5757 Info Adding target FileTarget(Name=ownFile-web)
 2022-02-16 19:39:06.5757 Info Closing old configuration.
 2022-02-16 19:39:06.5914 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
+2022-02-21 16:01:39.6830 Info Message Template Auto Format enabled
+2022-02-21 16:01:39.7630 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-21 16:01:39.8892 Info Adding target FileTarget(Name=allfile)
+2022-02-21 16:01:39.9426 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-21 16:01:40.0900 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
+2022-02-21 16:01:45.3489 Info Configuration file change detected! Reloading in 1000ms...
+2022-02-21 16:01:46.3867 Info Reloading configuration...
+2022-02-21 16:01:46.3867 Info Configuring from an XML element in C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config...
+2022-02-21 16:01:46.3867 Info Message Template Auto Format enabled
+2022-02-21 16:01:46.3867 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-21 16:01:46.3967 Info Adding target FileTarget(Name=allfile)
+2022-02-21 16:01:46.3967 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-21 16:01:46.3967 Info Closing old configuration.
+2022-02-21 16:01:46.5146 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
+2022-02-21 16:02:49.0436 Info AppDomain Shutting down. Logger closing...
+2022-02-21 16:02:49.0774 Info Logger has been shut down.
+2022-02-21 16:03:13.9628 Info Message Template Auto Format enabled
+2022-02-21 16:03:13.9778 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-21 16:03:14.0465 Info Adding target FileTarget(Name=allfile)
+2022-02-21 16:03:14.0465 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-21 16:03:14.0703 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\NLog.config
+2022-02-21 16:03:14.0960 Info Configuration initialized.
+2022-02-21 16:03:14.0960 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2022-02-21 16:03:19.4477 Info AppDomain Shutting down. Logger closing...
+2022-02-21 16:03:19.4835 Info Logger has been shut down.
+2022-02-21 16:03:43.7226 Info Message Template Auto Format enabled
+2022-02-21 16:03:43.7458 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-21 16:03:43.8323 Info Adding target FileTarget(Name=allfile)
+2022-02-21 16:03:43.8727 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-21 16:03:43.9538 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
+2022-02-21 16:03:53.9231 Info Configuration file change detected! Reloading in 1000ms...
+2022-02-21 16:03:54.9412 Info Reloading configuration...
+2022-02-21 16:03:54.9450 Info Configuring from an XML element in C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config...
+2022-02-21 16:03:54.9450 Info Message Template Auto Format enabled
+2022-02-21 16:03:54.9450 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-21 16:03:54.9450 Info Adding target FileTarget(Name=allfile)
+2022-02-21 16:03:54.9450 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-21 16:03:54.9450 Info Closing old configuration.
+2022-02-21 16:03:54.9890 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
+2022-02-21 16:04:28.4426 Info AppDomain Shutting down. Logger closing...
+2022-02-21 16:04:28.4426 Info Logger has been shut down.
+2022-02-21 16:08:47.8989 Info Message Template Auto Format enabled
+2022-02-21 16:08:47.9272 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-21 16:08:48.0340 Info Adding target FileTarget(Name=allfile)
+2022-02-21 16:08:48.0693 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-21 16:08:48.1892 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
+2022-02-21 16:09:06.5438 Info Message Template Auto Format enabled
+2022-02-21 16:09:06.5582 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-21 16:09:06.6165 Info Adding target FileTarget(Name=allfile)
+2022-02-21 16:09:06.6165 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-21 16:09:06.6625 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\NLog.config
+2022-02-21 16:09:06.6886 Info Configuration initialized.
+2022-02-21 16:09:06.6886 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2022-02-21 16:09:08.7267 Info AppDomain Shutting down. Logger closing...
+2022-02-21 16:09:08.7480 Info Logger has been shut down.
+2022-02-21 16:09:10.8358 Info Message Template Auto Format enabled
+2022-02-21 16:09:10.8545 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-21 16:09:10.9350 Info Adding target FileTarget(Name=allfile)
+2022-02-21 16:09:10.9467 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-21 16:09:11.0045 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
+2022-02-21 16:09:13.0102 Info Configuration file change detected! Reloading in 1000ms...
+2022-02-21 16:09:14.0491 Info Reloading configuration...
+2022-02-21 16:09:14.0632 Info Configuring from an XML element in C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config...
+2022-02-21 16:09:14.0632 Info Message Template Auto Format enabled
+2022-02-21 16:09:14.0632 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-21 16:09:14.0676 Info Adding target FileTarget(Name=allfile)
+2022-02-21 16:09:14.0676 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-21 16:09:14.0676 Info Closing old configuration.
+2022-02-21 16:09:14.1186 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config

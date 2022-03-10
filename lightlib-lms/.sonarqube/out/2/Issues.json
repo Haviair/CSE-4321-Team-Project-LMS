@@ -1,0 +1,699 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.0.0.0",
+        "fileVersion": "4.0.1-1.21569.2 (52021b4b)",
+        "semanticVersion": "4.0.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Branches/LibraryBranchService.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 33,
+                  "endLine": 56,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "The variable 'ex' is declared but never used",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Checkout/CheckoutService.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 32,
+                  "endLine": 103,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Assets/LibraryAssetService.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 16,
+                  "endLine": 67,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Branches/LibraryBranchService.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 16,
+                  "endLine": 46,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Branches/LibraryBranchService.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 12,
+                  "endLine": 50,
+                  "endColumn": 16
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Branches/LibraryBranchService.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 16,
+                  "endLine": 59,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Checkout/CheckoutService.cs",
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 20,
+                  "endLine": 85,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Checkout/CheckoutService.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 20,
+                  "endLine": 115,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Checkout/CheckoutService.cs",
+                "region": {
+                  "startLine": 124,
+                  "startColumn": 16,
+                  "endLine": 124,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Checkout/CheckoutService.cs",
+                "region": {
+                  "startLine": 185,
+                  "startColumn": 16,
+                  "endLine": 185,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Checkout/CheckoutService.cs",
+                "region": {
+                  "startLine": 189,
+                  "startColumn": 20,
+                  "endLine": 189,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Checkout/CheckoutService.cs",
+                "region": {
+                  "startLine": 193,
+                  "startColumn": 16,
+                  "endLine": 193,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Checkout/CheckoutService.cs",
+                "region": {
+                  "startLine": 214,
+                  "startColumn": 16,
+                  "endLine": 214,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Patrons/PatronService.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 20,
+                  "endLine": 59,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Patrons/PatronService.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 20,
+                  "endLine": 86,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Patrons/PatronService.cs",
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 20,
+                  "endLine": 113,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private type 'BranchHoursOpenRangeForDay'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Branches/LibraryBranchService.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 9,
+                  "endLine": 54,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private property 'Start_SecondsSinceWeekStart'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Branches/LibraryBranchService.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 13,
+                  "endLine": 52,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private property 'End_SecondsSinceWeekStart'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Branches/LibraryBranchService.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 13,
+                  "endLine": 53,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'statusDto' to 'status' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Assets/StatusService.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 47,
+                  "endLine": 25,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'assetDto' to 'newDto' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Assets/LibraryAssetService.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 53,
+                  "endLine": 27,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'newPatronDto' to 'newPatron' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Patrons/PatronService.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 47,
+                  "endLine": 35,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'cardId' to 'libraryCardId' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Patrons/LibraryCardService.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 51,
+                  "endLine": 34,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'now'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Branches/LibraryBranchService.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 17,
+                  "endLine": 57,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2259",
+          "level": "warning",
+          "message": "'checkout' is null on at least one execution path.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Checkout/CheckoutService.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 26,
+                  "endLine": 88,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'newCheckoutDto' to 'newCheckout' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Checkout/CheckoutService.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 49,
+                  "endLine": 97,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2259",
+          "level": "warning",
+          "message": "'patron' is null on at least one execution path.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Havia/OneDrive/Documents/Senior%20Year%202.0%202nd%20Semester/CSE%204321/Team%20Project/lightlib-lms/LightLib.Service/Patrons/PatronService.cs",
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 33,
+                  "endLine": 89,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0168": {
+          "id": "CS0168",
+          "shortDescription": "Variable is declared but never used",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0168)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS1998": {
+          "id": "CS1998",
+          "shortDescription": "Async method lacks 'await' operators and will run synchronously",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1998)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1135": {
+          "id": "S1135",
+          "shortDescription": "Track uses of \"TODO\" tags",
+          "fullDescription": "TODO tags are commonly used to mark places where some more code is required, but which the developer wants to implement later.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1135",
+          "properties": {
+            "category": "Info Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1144": {
+          "id": "S1144",
+          "shortDescription": "Unused private types or members should be removed",
+          "fullDescription": "private or internal types or private members that are never executed or referenced are dead code: unnecessary, inoperative code that should be removed. Cleaning out dead code decreases the size of the maintained codebase, making it easier to understand the program and preventing bugs from being introduced.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1144",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope",
+              "Unnecessary"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2259": {
+          "id": "S2259",
+          "shortDescription": "Null pointers should not be dereferenced",
+          "fullDescription": "A reference to null should never be dereferenced/accessed. Doing so will cause a NullReferenceException to be thrown. At best, such an exception will cause abrupt program termination. At worst, it could expose debugging information that would be useful to an attacker, or it could allow an attacker to bypass security measures.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2259",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S927": {
+          "id": "S927",
+          "shortDescription": "Parameter names should match base declaration and other partial definitions",
+          "fullDescription": "The name of a parameter in an externally visible. This rule raises an issue when method override does not match the name of the parameter in the base declaration of the method, or the name of the parameter in the interface declaration of the method or the name of any other partial definition.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-927",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
