@@ -32,6 +32,13 @@ namespace LightLib.Service.Patrons {
             return _mapper.Map<PatronDto>(patron);
         }
 
+        public async Task DeleteConfirmed(int patronId)
+        {
+            var model = await _context.Patrons.FindAsync(patronId);
+            _context.Patrons.Remove(model);
+            await _context.SaveChangesAsync();
+            return;
+        }
 
         public async Task<bool> Add(PatronDto newPatronDto) {
             var newPatron = _mapper.Map<Patron>(newPatronDto);

@@ -10,7 +10,7 @@ using LightLib.Web.Models.Patron;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LightLib.Web.Controllers {
-    
+
     public class PatronController : LibraryController {
         private readonly IPatronService _patronService;
 
@@ -19,7 +19,7 @@ namespace LightLib.Web.Controllers {
         }
 
         public async Task<IActionResult> Index([FromQuery] int page = 1, [FromQuery] int perPage = 10) {
-            
+
             var patrons = await _patronService.GetPaginated(page, perPage);
 
             if (patrons != null && patrons.Results.Any()) {
@@ -29,7 +29,7 @@ namespace LightLib.Web.Controllers {
 
                 return View(viewModel);
             }
-            
+
             var emptyModel = new PatronIndexModel {
                 PageOfPatrons = new PaginationResult<PatronDto> {
                     Results = new List<PatronDto>(),
@@ -37,7 +37,7 @@ namespace LightLib.Web.Controllers {
                     PageNumber = page
                 }
             };
-            
+
             return View(emptyModel);
         }
 
@@ -58,10 +58,10 @@ namespace LightLib.Web.Controllers {
                 Telephone = patron.Telephone,
                 HomeLibrary = patron.HomeLibrary,
                 OverdueFees = patron.OverdueFees,
-                AssetsCheckedOut = assetsCheckedOut, 
+                AssetsCheckedOut = assetsCheckedOut,
                 CheckoutHistory = checkoutHistory,
                 Holds = holds,
-                HasBeenMemberFor = memberLengthOfTime 
+                HasBeenMemberFor = memberLengthOfTime
             };
 
             return View(model);
@@ -69,19 +69,17 @@ namespace LightLib.Web.Controllers {
 
         public async Task<IActionResult> Delete(int id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            await _patronService.DeleteConfirmed(id);
+            return RedirectToAction("Index");
+        }
 
-            var model = await _patronService.
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (model == null)
+
+        public async Task<IActionResult> AddnewPatrons()
+        {
+            var model = new PatronDetailModel();
             {
-                return NotFound();
+
             }
-            HasBeenMemberFor = memberLengthOfTime
-        };
 
             return View(model);
         }

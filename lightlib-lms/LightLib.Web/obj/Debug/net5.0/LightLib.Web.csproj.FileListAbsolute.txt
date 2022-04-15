@@ -73,3 +73,4 @@ C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Pro
 C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\ref\LightLib.Web.dll
 C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\LightLib.Web.pdb
 C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\LightLib.Web.genruntimeconfig.cache
+C:\Users\Havia\OneDrive\Documents\Senior Year 2.0 2nd Semester\CSE 4321\Team Project\lightlib-lms\LightLib.Web\obj\Debug\net5.0\Razor\Views\Patron\AddnewPatrons.cshtml.g.cs
