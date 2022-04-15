@@ -66,5 +66,24 @@ namespace LightLib.Web.Controllers {
 
             return View(model);
         }
+
+        public async Task<IActionResult> Delete(int id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var model = await _patronService.
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (model == null)
+            {
+                return NotFound();
+            }
+            HasBeenMemberFor = memberLengthOfTime
+        };
+
+            return View(model);
+        }
     }
 }

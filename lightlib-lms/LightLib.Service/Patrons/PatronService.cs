@@ -32,13 +32,14 @@ namespace LightLib.Service.Patrons {
             return _mapper.Map<PatronDto>(patron);
         }
 
+
         public async Task<bool> Add(PatronDto newPatronDto) {
             var newPatron = _mapper.Map<Patron>(newPatronDto);
             await _context.AddAsync(newPatron);
             await _context.SaveChangesAsync();
             return true;
         }
-        
+
         public async Task<PaginationResult<PatronDto>> GetPaginated(int page, int perPage) {
             var patrons = _context.Patrons;
             var pageOfPatrons = await patrons.ToPaginatedResult(page, perPage);

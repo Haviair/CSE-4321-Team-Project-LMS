@@ -38,6 +38,8 @@
                 <th scope="col" style="width: 20%">First</th>
                 <th scope="col" style="width: 25%">Email</th>
                 <th scope="col" style="width: 5%">Fees</th>
+                <th scope="col" style="width: 5%">Delete</th>
+                <th scope="col" style="width: 5%">Edit</th>
             </tr>
             </thead>
             <tbody>
@@ -53,6 +55,16 @@
                         <td>@patron.FirstName</td>
                         <td>@patron.Email</td>
                         <td>$@Math.Round(patron.OverdueFees, 2)</td>
+                        <td scope="col" style="width: 5%">
+                            <button class="btn btn-primary btn-sm">
+                                Delete
+                            </button>
+                        </td>
+                        <td scope="col" style="width: 5%">
+                            <button class="btn btn-primary btn-sm">
+                                Edit
+                            </button>
+                        </td>
                     </tr>
                 </a>
             }
